@@ -5,3 +5,5 @@ students = ["Leveille, Andre", "AshWorth, Ryan",
 Sultan, Maxwell", "Zarate, Javier"]
 
 puts students
+
+array = [1,2,3,5,]
